@@ -1,0 +1,15 @@
+[submodule "Search-Algos"]
+	path = Search-Algos
+	url = https://github.com/marvelman3284/Search-Algos
+[submodule "Turtle-Race"]
+	path = Turtle-Race
+	url = https://github.com/marvelman3284/Turtle-Race
+[submodule "Array-Project"]
+	path = Array-Project
+	url = https://github.com/marvelman3284/Array-Project
+[submodule "csp-shapes"]
+	path = csp-shapes
+	url = https://github.com/marvelman3284/csp-shapes
+[submodule "Tic-Tac-Toe"]
+	path = Tic-Tac-Toe
+	url = https://github.com/marvelman3284/Tic-Tac-Toe
