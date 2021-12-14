@@ -13,3 +13,6 @@
 [submodule "Tic-Tac-Toe"]
 	path = Tic-Tac-Toe
 	url = https://github.com/marvelman3284/Tic-Tac-Toe
+[submodule "projectEuler"]
+	path = projectEuler
+	url = https://github.com/marvelman3284/projectEuler
